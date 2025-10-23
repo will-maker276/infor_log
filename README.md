@@ -5,6 +5,7 @@ Trabalhos e atividades da disciplina de informática
 
 ## Atividade 2: Analase exploratória de bares, cafeterias e restaurantes via Microsoft Excel
 Uso de fórmulas:  PROCV, CONTE.SES, CONT.VALORES e CONT.SES.
+<img width="1354" height="566" alt="{8F76719E-5DA4-4C22-9C29-346BDBF63447}" src="https://github.com/user-attachments/assets/80c2f5b1-00a6-4c30-9255-e6c04ff02059" />
 
 ## Atividade 3: Plano de produtos e exportação estratégico,com dados do Comex Stat via Microsoft Excel 
 Uso de fórmulas: PROCV
