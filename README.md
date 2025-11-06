@@ -13,3 +13,7 @@ Uso de fórmulas: PROCV
 
 # Atvidade 4: Análise e Filtragem de dados do Comex stat no Power BI
 <img width="1303" height="618" alt="{4B4E9BCF-E07C-442C-B9EC-56F8AA390E19}" src="https://github.com/user-attachments/assets/91565bb4-348a-4055-af0b-2b35d59ba507" />
+
+## Atividade 5: Dashborad com dados Comex Stat 2025 exportações
+<img width="1364" height="715" alt="{9B20F165-F056-43F1-B17E-EF2C37EC3CA6}" src="https://github.com/user-attachments/assets/aebed5ba-57bc-4ece-9b8d-04b6f2818835" />
+
