@@ -34,3 +34,5 @@ https://github.com/will-maker276/infor_log/blob/f8868a547f2770bc1001143a39524c91
 <img width="686" height="458" alt="{F2E500C0-6DF6-40D2-95AA-AB4F22B70C03}" src="https://github.com/user-attachments/assets/e7b7a349-421b-43ac-bc34-1696af57b4b6" />
 <img width="732" height="527" alt="{E56D77B2-8E44-4575-8400-2FF21E035672}" src="https://github.com/user-attachments/assets/3894caf5-feb0-4f01-8adc-8490e950ed5f" />
 
+https://github.com/will-maker276/infor_log/blob/36c4aea6f2c025499e5713a9cfdd92eb5ddb3419/salario%20colab.ipynb
+
