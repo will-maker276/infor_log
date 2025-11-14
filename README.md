@@ -24,4 +24,4 @@ Uso de fórmulas: PROCV
 
 
 Atividade 7: Regressão Linear - Salário
-<img width="686" height="463" alt="{48D12601-EFD6-4935-A33C-B8C2D4ED8B06}" src="https://github.com/user-attachments/assets/5790b06e-6012-47b5-9d51-756a30bf067f" />
+<img width="686" height="463" alt="{48D12601-EFD6-4935-A33C-B8C2D4ED8B06}" src="https://github.com/user-attachments/assets/83727a33-a9fa-483e-bb97-5e96d6d4853d" />
