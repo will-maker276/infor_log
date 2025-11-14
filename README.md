@@ -21,6 +21,8 @@ https://github.com/will-maker276/infor_log/blob/2f6ccf4bda29f0588bf857a45760bfcb
 ## Atividade 5: Dashborad com dados Comex Stat 2025 exportações
 <img width="904" height="462" alt="{B12E5DFD-8C98-47F0-B226-D295609B1729}" src="https://github.com/user-attachments/assets/6a8e96fb-947b-41c5-b36e-d93a55684186" />
 
+https://github.com/will-maker276/infor_log/blob/f8868a547f2770bc1001143a39524c91a775dbc4/Filtros%20BI%20(5).pbix
+
 ##Atividade 6: Regressão Linear - Venda de Sorvete
 <img width="828" height="465" alt="image" src="https://github.com/user-attachments/assets/3648a399-d007-4b40-9375-7d60df7921e7" />
 
