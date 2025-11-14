@@ -7,6 +7,8 @@ Trabalhos e atividades da disciplina de informática
 Uso de fórmulas:  PROCV, CONTE.SES, CONT.VALORES e CONT.SES.
 <img width="1354" height="566" alt="{8F76719E-5DA4-4C22-9C29-346BDBF63447}" src="https://github.com/user-attachments/assets/80c2f5b1-00a6-4c30-9255-e6c04ff02059" />
 
+https://github.com/will-maker276/infor_log/blob/994bd6e5feab38d0c4fe62089a7b853e4a9d208c/restaurante.ecx.%20aula%202.xlsx
+
 ## Atividade 3: Plano de produtos e exportação estratégico,com dados do Comex Stat via Microsoft Excel 
 Uso de fórmulas: PROCV
 <img width="969" height="454" alt="{64505DB4-4CD9-4229-8547-26934AC44D96}" src="https://github.com/user-attachments/assets/640f5872-a661-4c31-bb7b-c0795b4c41f5" />
