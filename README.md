@@ -11,6 +11,8 @@ https://github.com/will-maker276/infor_log/blob/994bd6e5feab38d0c4fe62089a7b853e
 
 ## Atividade 3: Plano de produtos e exportação estratégico,com dados do Comex Stat via Microsoft Excel 
 Uso de fórmulas: PROCV
+<img width="966" height="468" alt="{8436EABD-E22F-40BB-B622-B0B39F8B8E56}" src="https://github.com/user-attachments/assets/a9b758dc-a47e-49a9-b0bd-803278993c44" />
+
 # Atvidade 4: Análise e Filtragem de dados do Comex stat no Power BI
 <img width="1303" height="618" alt="{4B4E9BCF-E07C-442C-B9EC-56F8AA390E19}" src="https://github.com/user-attachments/assets/91565bb4-348a-4055-af0b-2b35d59ba507" />
 
