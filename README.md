@@ -29,6 +29,7 @@ https://github.com/will-maker276/infor_log/blob/f8868a547f2770bc1001143a39524c91
 <img width="828" height="465" alt="image" src="https://github.com/user-attachments/assets/3648a399-d007-4b40-9375-7d60df7921e7" />
 <img width="633" height="520" alt="{35761F90-9182-4A8A-8BFB-6DA4FC25C6B9}" src="https://github.com/user-attachments/assets/ad2e9f54-f0df-4406-9cde-a95f84d70fb6" />
 
+https://github.com/will-maker276/infor_log/blob/3bf9ad3aa3d382a41d983487749240c9eb0a4ad2/sorvete%20colab.ipynb
 
 ## Atividade 7: Regressão Linear - Salário
 <img width="686" height="458" alt="{F2E500C0-6DF6-40D2-95AA-AB4F22B70C03}" src="https://github.com/user-attachments/assets/e7b7a349-421b-43ac-bc34-1696af57b4b6" />
