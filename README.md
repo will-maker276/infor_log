@@ -19,4 +19,9 @@ Uso de fórmulas: PROCV
 ## Atividade 5: Dashborad com dados Comex Stat 2025 exportações
 <img width="904" height="462" alt="{B12E5DFD-8C98-47F0-B226-D295609B1729}" src="https://github.com/user-attachments/assets/6a8e96fb-947b-41c5-b36e-d93a55684186" />
 
+##Atividade 6: Regressão Linear - Venda de Sorvete
+<img width="828" height="465" alt="image" src="https://github.com/user-attachments/assets/3648a399-d007-4b40-9375-7d60df7921e7" />
 
+
+Atividade 7: Regressão Linear - Salário
+<img width="686" height="463" alt="{48D12601-EFD6-4935-A33C-B8C2D4ED8B06}" src="https://github.com/user-attachments/assets/5790b06e-6012-47b5-9d51-756a30bf067f" />
