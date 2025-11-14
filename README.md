@@ -17,5 +17,6 @@ Uso de fórmulas: PROCV
 <img width="1303" height="618" alt="{4B4E9BCF-E07C-442C-B9EC-56F8AA390E19}" src="https://github.com/user-attachments/assets/91565bb4-348a-4055-af0b-2b35d59ba507" />
 
 ## Atividade 5: Dashborad com dados Comex Stat 2025 exportações
-<img width="879" height="568" alt="{BE5FA182-51CE-498F-A418-2C10602F6A78}" src="https://github.com/user-attachments/assets/5882ddfc-b6e7-4f2c-b055-402dac5c5fe9" />
+<img width="904" height="462" alt="{B12E5DFD-8C98-47F0-B226-D295609B1729}" src="https://github.com/user-attachments/assets/6a8e96fb-947b-41c5-b36e-d93a55684186" />
+
 
