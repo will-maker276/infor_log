@@ -2,6 +2,7 @@
 Trabalhos e atividades da disciplina de informática
 ## Atividade 1: Apresentação em equipe
 Utilização do canvas.
+
 <img width="574" height="319" alt="image" src="https://github.com/user-attachments/assets/6c7de1a3-4393-4a0f-be67-effa44395f4c" />
 
 ## Atividade 2: Analase exploratória de bares, cafeterias e restaurantes via Microsoft Excel
