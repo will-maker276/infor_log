@@ -13,6 +13,8 @@ https://github.com/will-maker276/infor_log/blob/994bd6e5feab38d0c4fe62089a7b853e
 Uso de fórmulas: PROCV
 <img width="966" height="468" alt="{8436EABD-E22F-40BB-B622-B0B39F8B8E56}" src="https://github.com/user-attachments/assets/a9b758dc-a47e-49a9-b0bd-803278993c44" />
 
+https://github.com/will-maker276/infor_log/blob/467587b1cd8548e5879b6afccd276dd8720f9ec2/restaurante%20atv%203.xlsx
+
 # Atvidade 4: Análise e Filtragem de dados do Comex stat no Power BI
 <img width="1303" height="618" alt="{4B4E9BCF-E07C-442C-B9EC-56F8AA390E19}" src="https://github.com/user-attachments/assets/91565bb4-348a-4055-af0b-2b35d59ba507" />
 
@@ -23,9 +25,9 @@ https://github.com/will-maker276/infor_log/blob/2f6ccf4bda29f0588bf857a45760bfcb
 
 https://github.com/will-maker276/infor_log/blob/f8868a547f2770bc1001143a39524c91a775dbc4/Filtros%20BI%20(5).pbix
 
-##Atividade 6: Regressão Linear - Venda de Sorvete
+## Atividade 6: Regressão Linear - Venda de Sorvete
 <img width="828" height="465" alt="image" src="https://github.com/user-attachments/assets/3648a399-d007-4b40-9375-7d60df7921e7" />
 
-##Atividade 7: Regressão Linear - Salário
+## Atividade 7: Regressão Linear - Salário
 
 <img width="686" height="463" alt="{48D12601-EFD6-4935-A33C-B8C2D4ED8B06}" src="https://github.com/user-attachments/assets/83727a33-a9fa-483e-bb97-5e96d6d4853d" />
