@@ -30,4 +30,6 @@ https://github.com/will-maker276/infor_log/blob/f8868a547f2770bc1001143a39524c91
 
 ## Atividade 7: Regressão Linear - Salário
 
-<img width="686" height="463" alt="{48D12601-EFD6-4935-A33C-B8C2D4ED8B06}" src="https://github.com/user-attachments/assets/83727a33-a9fa-483e-bb97-5e96d6d4853d" />
+<img width="686" height="463" alt="{48D12601-EFD6-4935-A33C-B8C2D4ED8B06}" src="https://github.com/user-attachments/assets/83727a33-a9fa-483e-bb97-5e96d6d4853d" 
+<img width="732" height="527" alt="{E56D77B2-8E44-4575-8400-2FF21E035672}" src="https://github.com/user-attachments/assets/3894caf5-feb0-4f01-8adc-8490e950ed5f" />
+
